@@ -1,0 +1,45 @@
+top_inputs i1 i2 i3 i4 i5 i6 i7 i8 i9 i10 i11 i12 i13 i14 i15 i16 i17 i18 i19 i20 
+AND t1 i12 i7
+AND t2 i18 i14
+XOR t3 i10 i9
+AND t4 i15 i11
+NOR t5 i9 i15 t20  
+XNOR t6 i5 i11
+XNOR t7 i20 i3
+AND t8 i4 i17
+XOR t9 i5 i6
+AND t10 i10 i13
+NOR t11 i11 i20
+XNOR t12 i17 i5 t13
+AND t13 i16 i8 t14
+NAND t14 i17 i10 t9
+XNOR t15 i20 i7 t10
+XOR t16 i7 i10 t11
+NOR t17 i4 i2 t12 
+NOR t18 i5 i2 t13
+AND t19 i1 i12 t14
+XOR t20 i9 i15 t15 
+XNOR t21 i19 i4 t16
+AND t22 i6 i12 t17 
+OR t23 i11 i5 t18 
+XOR t24 i10 t8 t19 
+XNOR t25 i1 t9 t20
+OR t26 i19 t1 
+NOR t27 i12 t2
+NOR t28 i12 t31 
+XNOR t29 i15 t4 
+NAND t30 i4 t5 
+XNOR t31 i10 t6 
+AND t32 i10 t7 
+XNOR t33 i18 t17 
+NAND t34 i4 t18 
+NAND t35 i9 t19 
+XOR t36 i7 t20
+XNOR t37 i7 t21 
+OR t38 i5 t22
+NAND t39 i11 t23 
+OR t40 i8 t24
+XOR o1 t1 t2 t3 t4 t5 t6 t7 t8 t9 t10
+XOR o2 t11 t12 t13 t14 t15 t16 t17 t18 t19 t20 
+XOR o3 t21 t22 t23 t24 t25 t26 t27 t28 t29 t30 
+XOR o4 t31 t32 t33 t34 t35 t36 t37 t38 t39 t40 
