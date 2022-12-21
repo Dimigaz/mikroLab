@@ -1,0 +1,22 @@
+C:/mikroQ/projects/d1s4035tb.v {1 {vlog -work work C:/mikroQ/projects/d1s4035tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module d1s4035tb
+
+Top level modules:
+	d1s4035tb
+
+} {} {}} C:/mikroQ/projects/d1s4035tb2.v {1 {vlog -work work C:/mikroQ/projects/d1s4035tb2.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module d1s4035tb2
+
+Top level modules:
+	d1s4035tb2
+
+} {} {}} C:/mikroQ/projects/d1s4035.v {1 {vlog -work work C:/mikroQ/projects/d1s4035.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module d1s4035
+
+Top level modules:
+	d1s4035
+
+} {} {}}
